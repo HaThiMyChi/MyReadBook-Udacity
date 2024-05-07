@@ -10,6 +10,8 @@ $ cd MyReadBook-Udacity
 
 $ npm install
 
+Use node js with version: 18.19.1 to run code
+
 install dependencies with npm install
 
 start with npm start
